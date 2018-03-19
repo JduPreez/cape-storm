@@ -1,0 +1,1 @@
+lein run -m cape-storm.topology/run!
